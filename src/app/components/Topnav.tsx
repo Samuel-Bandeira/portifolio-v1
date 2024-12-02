@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const Topnav = () => {
   return (
-    <div className="border-b h-[100px] w-full flex items-center justify-between px-8 fixed">
+    <div className="border-b h-[100px] w-full flex items-center justify-between px-8 fixed bg-white">
       <div className="flex gap-4 items-center cursor-pointer">
         <Avatar className="w-[50px] h-[50px]">
           <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
