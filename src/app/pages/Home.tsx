@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 
-export default function Main() {
+export default function Home() {
   return (
     <div className="flex justify-center items-center h-screen w-full">
       <div className="flex flex-col items-center">
